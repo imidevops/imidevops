@@ -17,8 +17,8 @@
 
 ### 🌍 Connect with Me
 - GitHub: [imidevops](https://github.com/imidevops)  
-- LinkedIn: [Muhammad Imran](https://linkedin.com/in/YOUR-LINK)  
-- Email: **YOUR_PROFESSIONAL_EMAIL@gmail.com**  
+- LinkedIn: [Muhammad Imran](https://www.linkedin.com/in/muhammad-imran-ashraf-system-engineer)  
+- Email: **imranxdevops@gmail.com**  
 
 ---
 
