@@ -18,8 +18,10 @@
 ### 🌍 Connect with Me
 - GitHub: [imidevops](https://github.com/imidevops)  
 - LinkedIn: [Muhammad Imran](https://www.linkedin.com/in/muhammad-imran-ashraf-system-engineer)  
-- Email: **imranxdevops@gmail.com**  
-
+- Email: **imranxdevops@gmail.com**
+  
+## 🏅 Awards & Achievements
+- 🎖 Gold Medalist – [UET Lahore], [2023]
 ---
 
 ⭐️ *"Automating the boring stuff, so systems run smarter."*
