@@ -5,14 +5,14 @@
 
 ### 🔧 Skills & Tools
 - Linux | Debian | Ubuntu | CentOS  
-- Docker | Kubernetes | CI/CD Pipelines  
+- Docker | Kubernetes   
 - OpenSIPS | Kannel | SMPP | VoIP  
 - Grafana | Prometheus | Monitoring  
-- Bash | Python | PHP | Node.js  
+- Bash | Python | PHP | C++  
 
 ### 📈 Current Focus
 - Scaling VoIP & SMPP infrastructures  
-- Automating deployments with Docker & Ansible  
+- Automating deployments with Docker   
 - Improving monitoring & alerting systems  
 
 ### 🌍 Connect with Me
