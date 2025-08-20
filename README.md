@@ -20,8 +20,11 @@
 - LinkedIn: [Muhammad Imran](https://www.linkedin.com/in/muhammad-imran-ashraf-system-engineer)  
 - Email: **imranxdevops@gmail.com**
   
-## 🏅 Awards & Achievements
+### 🏅 Awards & Achievements
 - 🎖 Gold Medalist – [UET Lahore], [2023]
+
+![Profile views](https://komarev.com/ghpvc/?username=imidevops&label=Profile%20views&color=green&style=plastic)
+
 ---
 
 ⭐️ *"Automating the boring stuff, so systems run smarter."*
