@@ -4,11 +4,12 @@
 🚀 Passionate about server management, automation, and cloud-native solutions.  
 
 ### 🔧 Skills & Tools
-- Linux | Debian | Ubuntu | CentOS  
-- Docker | Kubernetes   
-- OpenSIPS | Kannel | SMPP | VoIP  
+- Linux | Debian | Ubuntu | CentOS | Proxmox
+- Docker | Kubernetes |   
+- OpenSIPS | Asterisk | VoIP
+- Kannel | SMPP | SMS Gateways
 - Grafana | Prometheus | Monitoring  
-- Bash | Python | PHP | C++  
+- Bash | Python | PHP | C++ 
 
 ### 📈 Current Focus
 - Scaling VoIP & SMPP infrastructures  
